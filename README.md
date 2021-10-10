@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virajkum
+- 👋 Hi, I’m @VirajKum
 - 👀 I’m interested in learning progamming languages useful to enhance my my analytical skills
 - 🌱 I’m currently learning google data analytics
 - 💞️ I’m looking to collaborate on ...
